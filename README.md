@@ -7,7 +7,8 @@ Implementing the depth-first search (dfs) algorithm.
 ![robot version 2.2](gifs/robot-v2.2.gif)
 # Robot v3
 Implementing the iterative dfs.
-![robot version 3.1](gifs/robot-v3.1.gif)Cancel changes
+
+![robot version 3.1](gifs/robot-v3.1.gif)
 ![robot version 3.2](gifs/robot-v3.2.gif)
 # Robot v4
 Trying out the final algorithm in a real landscape.
